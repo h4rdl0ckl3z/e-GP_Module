@@ -1,4 +1,4 @@
-# e-GP-Module
+# e-GP Module
 e-GP (Thai e-Government Procurement) Module
 
 fetch data to json
