@@ -3,7 +3,7 @@ e-GP (Thai e-Government Procurement) Module
 
 fetch data to json
 
-![Alt text](egp_module.png)
+![Alt text]()
 
 Python -> https://github.com/h4rdl0ckl3z/PYe-GP_module
 
